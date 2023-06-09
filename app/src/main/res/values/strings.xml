@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StoryAppRakha</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="desc">Desc</string>
+    <string name="emailkosong">Email Tidak Boleh Kosong</string>
+    <string name="passwordkosong">Password Tidak Boleh kosong</string>
+    <string name="min8">Password Minimal 8</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="imagecam">imageCam</string>
+    <string name="namakosong">Nama Tidak Boleh Kosong</string>
+    <string name="foto">foto</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
